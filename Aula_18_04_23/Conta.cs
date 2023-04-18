@@ -16,20 +16,15 @@ class Conta{
         return Mes;
     }
 
-    public void Deposito(double custo){
+    public void Depositar(double custo){
         this.Saldo += Valor;
     }
 
-
-    public void Saque(double custo){
+    public void Sacar(double custo){
         this.Saldo -= Valor;
     }
 
     public double ConsutSaldo(){
         return this.Saldo += this.Limite;
     }
-
-
-
-
 }
