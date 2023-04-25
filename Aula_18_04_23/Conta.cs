@@ -2,7 +2,6 @@ namespace conta_bancaria;
 class Conta{
 
     public double Valor;
-    public string? cliente{get;set;}
     public double Saldo{get;set;}
     public double Limite{get;set;}
 

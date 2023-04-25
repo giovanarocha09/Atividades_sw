@@ -7,7 +7,6 @@ class Program
 
         conta.Depositar(500);
         conta.Sacar(900);
-        conta.Sacar(1000);
 
         Console.Write("Digite o valor do seu emprestimo: ");
         conta.Valor = double.Parse(Console.ReadLine());
