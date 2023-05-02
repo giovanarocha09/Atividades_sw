@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Aula_02_05_23\bin\Debug\net7.0\Aula_02_05_23.exe
+C:\Users\LAB4\Desktop\Aula_02_05_23\bin\Debug\net7.0\Aula_02_05_23.deps.json
+C:\Users\LAB4\Desktop\Aula_02_05_23\bin\Debug\net7.0\Aula_02_05_23.runtimeconfig.json
+C:\Users\LAB4\Desktop\Aula_02_05_23\bin\Debug\net7.0\Aula_02_05_23.dll
+C:\Users\LAB4\Desktop\Aula_02_05_23\bin\Debug\net7.0\Aula_02_05_23.pdb
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.dll
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\refint\Aula_02_05_23.dll
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.pdb
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\Aula_02_05_23.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Aula_02_05_23\obj\Debug\net7.0\ref\Aula_02_05_23.dll
