@@ -6,8 +6,23 @@ class Contrato
     public string? Tel {get;set;}
 
     public virtual string Base(){
-        string Tudo = (this.Nome + " , seu e-mail é " + this.Email +  " e seu telefone é " + this.Tel);
-        return Tudo;
+
+        Console.WriteLine("Preencha por gentileza a ficha a baixo.");
+        Console.WriteLine("");
+        Console.WriteLine("DADOS PESSOAIS");
+        Console.WriteLine("");
+
+        Console.Write("Seu Nome: ");
+        Nome = Console.ReadLine();
+
+        Console.Write("Seu E-mail: ");
+        Email = Console.ReadLine();
+
+        Console.Write("Telefone para contato: ");
+        Tel = Console.ReadLine();
+
+        string vazio = ("");
+        return vazio;
     }
 
 }

@@ -7,13 +7,22 @@ class Program
         Juridica jur = new Juridica();
     
         Console.WriteLine("Você é uma pessoa física ou juridica?");
-        Console.ReadLine();
-       if("física"){
-        Console.WriteLine(fis.Base());
-       } 
-       else{
-        Console.WriteLine(jur.Base());
-       }
+        string metrica = Console.ReadLine();
+
+       switch (metrica)
+        {
+            case "física":
+                Console.WriteLine(fis.Base());
+                break;
+
+            case "juridica":
+                Console.WriteLine(jur.Base());
+                break;
+
+            default:
+                Console.WriteLine("Opção inválida.");
+                break;
+        }
 
     }
 }

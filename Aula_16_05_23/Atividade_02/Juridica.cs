@@ -6,7 +6,25 @@ class Juridica: Contrato
     public string? NE {get;set;}
 
     public override string Base(){
-        return base.Base() + " " + this.cnpj + " " + this.IE + " " + this.NE;
+
+        base.Base();
+
+        Console.WriteLine("");
+        Console.WriteLine("DADOS DA EMPRESA");
+        Console.WriteLine("");
+
+        Console.Write("CNPJ: ");
+        cnpj = Console.ReadLine();
+
+        Console.Write("IE: ");
+        IE = Console.ReadLine();
+
+        Console.Write("NE: ");
+        NE = Console.ReadLine();
+        Console.WriteLine("");
+
+        string vazio = ("Obrigada!!");
+        return vazio ;
     }
 
 }

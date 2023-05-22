@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAB4\\Desktop\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj": {}
+    "C:\\Users\\grsouza\\Downloads\\Atividades_sw-main\\Atividades_sw-main\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAB4\\Desktop\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj": {
+    "C:\\Users\\grsouza\\Downloads\\Atividades_sw-main\\Atividades_sw-main\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAB4\\Desktop\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj",
+        "projectUniqueName": "C:\\Users\\grsouza\\Downloads\\Atividades_sw-main\\Atividades_sw-main\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj",
         "projectName": "Atividade_01",
-        "projectPath": "C:\\Users\\LAB4\\Desktop\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj",
-        "packagesPath": "C:\\Users\\LAB4\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAB4\\Desktop\\Aula_16_05_23\\Atividade_01\\obj\\",
+        "projectPath": "C:\\Users\\grsouza\\Downloads\\Atividades_sw-main\\Atividades_sw-main\\Aula_16_05_23\\Atividade_01\\Atividade_01.csproj",
+        "packagesPath": "C:\\Users\\grsouza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grsouza\\Downloads\\Atividades_sw-main\\Atividades_sw-main\\Aula_16_05_23\\Atividade_01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LAB4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grsouza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
