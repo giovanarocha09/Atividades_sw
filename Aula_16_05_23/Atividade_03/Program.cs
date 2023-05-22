@@ -6,12 +6,12 @@ class Program
         Fisica fis = new Fisica();
         Juridica jur = new Juridica();
     
-        Console.WriteLine("Você é uma pessoa física ou juridica?");
+        Console.WriteLine("Você é uma pessoa fisica ou juridica?");
         string metrica = Console.ReadLine();
 
        switch (metrica)
         {
-            case "física":
+            case "fisica":
                 Console.WriteLine(fis.Base());
                 Console.WriteLine("Valor da parcela: " + fis.CalcularPrestacao());
                 break;
